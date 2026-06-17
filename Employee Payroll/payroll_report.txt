@@ -1,0 +1,3 @@
+Ram - Pay: 50000.0
+Sita - Pay: 20000.0
+Hari - Pay: 18000.0

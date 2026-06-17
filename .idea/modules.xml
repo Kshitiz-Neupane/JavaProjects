@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A/A.iml" filepath="$PROJECT_DIR$/A/A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATM Simulation/ATM Simulation.iml" filepath="$PROJECT_DIR$/ATM Simulation/ATM Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assign/Assign.iml" filepath="$PROJECT_DIR$/Assign/Assign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assign6/Assign6.iml" filepath="$PROJECT_DIR$/Assign6/Assign6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BillingSystem/BillingSystem.iml" filepath="$PROJECT_DIR$/BillingSystem/BillingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comp/Comp.iml" filepath="$PROJECT_DIR$/Comp/Comp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comp1/Comp1.iml" filepath="$PROJECT_DIR$/Comp1/Comp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config Loader/Config Loader.iml" filepath="$PROJECT_DIR$/Config Loader/Config Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daily Sale Log/Daily Sale Log.iml" filepath="$PROJECT_DIR$/Daily Sale Log/Daily Sale Log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Duplicate Finder/Duplicate Finder.iml" filepath="$PROJECT_DIR$/Duplicate Finder/Duplicate Finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee Payroll/Employee Payroll.iml" filepath="$PROJECT_DIR$/Employee Payroll/Employee Payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encap/Encap.iml" filepath="$PROJECT_DIR$/Encap/Encap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileQuestion/FileQuestion.iml" filepath="$PROJECT_DIR$/FileQuestion/FileQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invalid Age Protector/Invalid Age Protector.iml" filepath="$PROJECT_DIR$/Invalid Age Protector/Invalid Age Protector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Librarary/Librarary.iml" filepath="$PROJECT_DIR$/Librarary/Librarary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library System/Library System.iml" filepath="$PROJECT_DIR$/Library System/Library System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log File Reader/Log File Reader.iml" filepath="$PROJECT_DIR$/Log File Reader/Log File Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi/Multi.iml" filepath="$PROJECT_DIR$/Multi/Multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP2/OOP2.iml" filepath="$PROJECT_DIR$/OOP2/OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overall/Overall.iml" filepath="$PROJECT_DIR$/Overall/Overall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product Inventory/Product Inventory.iml" filepath="$PROJECT_DIR$/Product Inventory/Product Inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question/Question.iml" filepath="$PROJECT_DIR$/Question/Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Safe Math Calculator/Safe Math Calculator.iml" filepath="$PROJECT_DIR$/Safe Math Calculator/Safe Math Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smart Warehouse/Smart Warehouse.iml" filepath="$PROJECT_DIR$/Smart Warehouse/Smart Warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student Grade Filter/Student Grade Filter.iml" filepath="$PROJECT_DIR$/Student Grade Filter/Student Grade Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Survey Analyzer/Survey Analyzer.iml" filepath="$PROJECT_DIR$/Survey Analyzer/Survey Analyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle Fleet/Vehicle Fleet.iml" filepath="$PROJECT_DIR$/Vehicle Fleet/Vehicle Fleet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visitor Guestbook/Visitor Guestbook.iml" filepath="$PROJECT_DIR$/Visitor Guestbook/Visitor Guestbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/q2/q2.iml" filepath="$PROJECT_DIR$/q2/q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk6/wk6.iml" filepath="$PROJECT_DIR$/wk6/wk6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk61/wk61.iml" filepath="$PROJECT_DIR$/wk61/wk61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk6q/wk6q.iml" filepath="$PROJECT_DIR$/wk6q/wk6q.iml" />
+    </modules>
+  </component>
+</project>
